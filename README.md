@@ -4,6 +4,8 @@ Pre-requisitos</br>
 1- Sdk Dotnet8 atualizada</br>
 2- IDE VS atualizado
 
+Como executar:</br>
+Executar em Release Mode
 
 ```
 private static readonly int[] Array = Enumerable.Range(1, 10000).ToArray();
