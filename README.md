@@ -1,7 +1,7 @@
 Este projeto tem objetivo de demonstrar performance usando um for, linq e simdlinq
 
-Pre-requisitos
-1- Sdk Dotnet8 atualizada
+Pre-requisitos</br>
+1- Sdk Dotnet8 atualizada</br>
 2- IDE VS atualizado
 
 
