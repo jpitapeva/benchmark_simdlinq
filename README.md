@@ -36,3 +36,12 @@ public int SimdLinqExample()
     return SimdLinq.SimdLinqExtensions.Sum(Array);
 }
 ```
+
+
+Resultados
+
+| Method          | Mean       | Error    | StdDev    | Median     | Allocated |
+|---------------- |-----------:|---------:|----------:|-----------:|----------:|
+| ForLoopExample  | 3,604.7 ns | 98.71 ns | 284.80 ns | 3,508.7 ns |         - |
+| LinqExample     |   817.0 ns | 12.66 ns |  13.00 ns |   814.9 ns |         - |
+| SimdLinqExample |   501.5 ns |  9.75 ns |  25.01 ns |   493.9 ns |         - |
