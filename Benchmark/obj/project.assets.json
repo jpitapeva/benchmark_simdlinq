@@ -1788,11 +1788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpita\\OneDrive\\Área de Trabalho\\banchmark\\Benchmark\\Benchmark\\Benchmark.csproj",
+      "projectUniqueName": "C:\\Users\\jpita\\OneDrive\\Área de Trabalho\\Nova pasta\\benchmark_simdlinq\\Benchmark\\Benchmark.csproj",
       "projectName": "Benchmark",
-      "projectPath": "C:\\Users\\jpita\\OneDrive\\Área de Trabalho\\banchmark\\Benchmark\\Benchmark\\Benchmark.csproj",
+      "projectPath": "C:\\Users\\jpita\\OneDrive\\Área de Trabalho\\Nova pasta\\benchmark_simdlinq\\Benchmark\\Benchmark.csproj",
       "packagesPath": "C:\\Users\\jpita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpita\\OneDrive\\Área de Trabalho\\banchmark\\Benchmark\\Benchmark\\obj\\",
+      "outputPath": "C:\\Users\\jpita\\OneDrive\\Área de Trabalho\\Nova pasta\\benchmark_simdlinq\\Benchmark\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
