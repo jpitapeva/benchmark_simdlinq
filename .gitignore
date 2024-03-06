@@ -401,3 +401,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Benchmark/bin/Release/net8.0/Benchmark.dll
