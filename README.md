@@ -5,7 +5,8 @@ Pre-requisitos</br>
 2- IDE VS atualizado
 
 Como executar:</br>
-Executar em Release Mode
+1- Executar em Release Mode</br>
+2- Start sem debug(ctrl + f5)
 
 ```
 private static readonly int[] Array = Enumerable.Range(1, 10000).ToArray();
