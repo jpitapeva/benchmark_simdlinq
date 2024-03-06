@@ -1,5 +1,10 @@
 Este projeto tem objetivo de demonstrar performance usando um for, linq e simdlinq
 
+**SimdLinq** é um substituto imediato das operações de agregação LINQ (Sum, Average, Min, Max) é extremamente mais rápido. **SimdLinq** acelera muitos métodos (Sum, LongSum, Average, Min, Max, MinMax, Contains, SequenceEqual) e tipos (byte, sbyte, short, ushort, int, uint, long, ulong, float, double). Também pode ser usado com List<T>, Span<T>, ReadOnlySpan<T>, Memory<T>, ReadOnlyMemory<T> além de T[].
+
+
+
+
 Pre-requisitos</br>
 1- Sdk Dotnet8 atualizada</br>
 2- IDE VS atualizado
