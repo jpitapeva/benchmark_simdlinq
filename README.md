@@ -54,8 +54,14 @@ Resultados
 
 
 
+```
 [SimpleJob](RuntimeMoniker.Net80)]
 [SimpleJob](RuntimeMoniker.Net60)]
 [MemoryDiagnoser]
 
+```
+
+```
 <TargetFramework>net6.0, net8.0</TargetFramework>
+
+```
